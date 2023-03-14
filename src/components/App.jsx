@@ -8,7 +8,7 @@ import ItemListContainer from "../ItemListContainer/ItemListContainer.css";
 import ItemDetailContainer from "../components/ItemDetailContainer";
 import Cart from "../components/Cart";
 import Checkout from "../components/Checkout";
-// import { DarkModeProvider } from "../context/DarkModeContext";
+import { DarkModeProvider } from "../context/DarkModeContext";
 import { ToastContainer } from "react-toastify";
 
 function App() {

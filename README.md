@@ -8,8 +8,8 @@
 
 ---
 
-**El proyecto consiste en mostrar dos tipos de unidades:**
-_Unidades OKM y Unidades Usadas en excelente estado._
+**El proyecto consiste en mostrar ecomerce:**
+_Por Tatiana Bustos._
 
 Built with 👷
 

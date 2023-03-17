@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import ItemList from "../ItemList";
 import "../ItemListContainer/ItemListContainer.css";
-import { getProductos, cargarBDD } from "../../assets/firebase";
+import { getProductos, cargarBDD } from "../assets/firebase";
 const ItemListContainer = () => {
   //cargarBDD();
   const [productos, setProductos] = useState([]);
